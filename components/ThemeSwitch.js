@@ -13,6 +13,7 @@ function ThemeSwitch() {
       <style jsx>{`
         button {
           background: none;
+          color: inherit;
           border: none;
           cursor: pointer;
         }
